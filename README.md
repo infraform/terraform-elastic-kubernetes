@@ -1,8 +1,11 @@
+[![Terraform Infrastructure Plan](https://github.com/infraform/terraform-elastic-kubernetes/actions/workflows/terraform_plan.yml/badge.svg)](https://github.com/infraform/terraform-elastic-kubernetes/actions/workflows/terraform_plan.yml) [![pages-build-deployment](https://github.com/infraform/terraform-elastic-kubernetes/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/infraform/terraform-elastic-kubernetes/actions/workflows/pages/pages-build-deployment)
+
 # AWS Elastic Kubernetes Service (EKS)
 
-![EKS](eks.png)
-
 ## Description
+
+<!-- ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EKS](eks.png) -->
 
 Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that makes it easy for you to run Kubernetes on AWS without needing to install and operate your own Kubernetes clusters.
 
